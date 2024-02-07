@@ -1,1 +1,2 @@
-# BasicProgramming
+# C 수업 2일차
+함수를 해볼까요???
